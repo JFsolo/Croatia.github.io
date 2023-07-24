@@ -1,0 +1,20 @@
+h1, h2, .navbar-brand, h5 {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.back {
+    background-image: url(Croatia.jpg);
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.head {
+    font-size: 22px;
+}
